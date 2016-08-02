@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pogostats>
+    <pokemon name="Abra">
+        <AvgX value="2.59"/>
+        <MinX>1.00</MinX>
+        <MaxX>13.42</MaxX>
+    </pokemon>
+    <pokemon name="Bellsprout">
+        <AvgX value="1.89"/>
+        <MinX>1.00</MinX>
+        <MaxX>7.69</MaxX>
+    </pokemon>
+    <pokemon name="Bulbasaur">
+        <AvgX value="2.22"/>
+        <MinX>1.23</MinX>
+        <MaxX>11.00</MaxX>
+    </pokemon>
+    <pokemon name="Caterpie">
+        <AvgX value="1.49"/>
+        <MinX>1.00</MinX>
+        <MaxX>12.46</MaxX>
+    </pokemon>
+    <pokemon name="Charmander">
+        <AvgX value="2.34"/>
+        <MinX>1.00</MinX>
+        <MaxX>9.31</MaxX>
+    </pokemon>
+    <pokemon name="Charmeleon">
+        <AvgX value="2.01"/>
+        <MinX>1.03</MinX>
+        <MaxX>5.78</MaxX>
+    </pokemon>
+    <pokemon name="Clefairy">
+        <AvgX value="1.93"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.70</MaxX>
+    </pokemon>
+    <pokemon name="Cubone">
+        <AvgX value="1.79"/>
+        <MinX>1.07</MinX>
+        <MaxX>3.36</MaxX>
+    </pokemon>
+    <pokemon name="Diglett">
+        <AvgX value="3.18"/>
+        <MinX>2.67</MinX>
+        <MaxX>4.83</MaxX>
+    </pokemon>
+    <pokemon name="Doduo">
+        <AvgX value="2.20"/>
+        <MinX>1.26</MinX>
+        <MaxX>2.75</MaxX>
+    </pokemon>
+    <pokemon name="Dragonair">
+        <AvgX value="2.01"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.91</MaxX>
+    </pokemon>
+    <pokemon name="Dratini">
+        <AvgX value="2.56"/>
+        <MinX>1.40</MinX>
+        <MaxX>12.50</MaxX>
+    </pokemon>
+    <pokemon name="Drowzee">
+        <AvgX value="2.09"/>
+        <MinX>1.00</MinX>
+        <MaxX>6.67</MaxX>
+    </pokemon>
+    <pokemon name="Eevee-Flareon">
+        <AvgX value="2.56"/>
+        <MinX>1.00</MinX>
+        <MaxX>10.20</MaxX>
+    </pokemon>
+    <pokemon name="Eevee-Jolteon">
+        <AvgX value="2.14"/>
+        <MinX>1.00</MinX>
+        <MaxX>13.44</MaxX>
+    </pokemon>
+    <pokemon name="Eevee-Vaporeon">
+        <AvgX value="2.77"/>
+        <MinX>1.00</MinX>
+        <MaxX>12.94</MaxX>
+    </pokemon>
+    <pokemon name="Ekans">
+        <AvgX value="2.22"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.67</MaxX>
+    </pokemon>
+    <pokemon name="Exeggcute">
+        <AvgX value="2.61"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.18</MaxX>
+    </pokemon>
+    <pokemon name="Gastly">
+        <AvgX value="1.95"/>
+        <MinX>1.02</MinX>
+        <MaxX>4.32</MaxX>
+    </pokemon>
+    <pokemon name="Geodude">
+        <AvgX value="1.84"/>
+        <MinX>1.50</MinX>
+        <MaxX>4.94</MaxX>
+    </pokemon>
+    <pokemon name="Gloom">
+        <AvgX value="2.05"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.96</MaxX>
+    </pokemon>
+    <pokemon name="Goldeen">
+        <AvgX value="2.21"/>
+        <MinX>2.00</MinX>
+        <MaxX>2.48</MaxX>
+    </pokemon>
+    <pokemon name="Graveler">
+        <AvgX value="1.68"/>
+        <MinX>1.63</MinX>
+        <MaxX>1.81</MaxX>
+    </pokemon>
+    <pokemon name="Grimer">
+        <AvgX value="2.44"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Growlithe">
+        <AvgX value="2.35"/>
+        <MinX>1.00</MinX>
+        <MaxX>5.01</MaxX>
+    </pokemon>
+    <pokemon name="Haunter">
+        <AvgX value="1.90"/>
+        <MinX>1.00</MinX>
+        <MaxX>4.73</MaxX>
+    </pokemon>
+    <pokemon name="Horsea">
+        <AvgX value="2.19"/>
+        <MinX>2.00</MinX>
+        <MaxX>2.31</MaxX>
+    </pokemon>
+    <pokemon name="Ivysaur">
+        <AvgX value="1.91"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Jigglypuff">
+        <AvgX value="2.41"/>
+        <MinX>1.85</MinX>
+        <MaxX>2.76</MaxX>
+    </pokemon>
+    <pokemon name="Kabuto">
+        <AvgX value="2.11"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Kadabra">
+        <AvgX value="2.09"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.43</MaxX>
+    </pokemon>
+    <pokemon name="Kakuna">
+        <AvgX value="3.28"/>
+        <MinX>1.80</MinX>
+        <MaxX>5.07</MaxX>
+    </pokemon>
+    <pokemon name="Koffing">
+        <AvgX value="4.00"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Krabby">
+        <AvgX value="2.36"/>
+        <MinX>1.33</MinX>
+        <MaxX>4.05</MaxX>
+    </pokemon>
+    <pokemon name="Machoke">
+        <AvgX value="1.56"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Machop">
+        <AvgX value="1.69"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.25</MaxX>
+    </pokemon>
+    <pokemon name="Magikarp">
+        <AvgX value="10.55"/>
+        <MinX>2.00</MinX>
+        <MaxX>12.70</MaxX>
+    </pokemon>
+    <pokemon name="Magnemite">
+        <AvgX value="2.23"/>
+        <MinX>2.16</MinX>
+        <MaxX>2.49</MaxX>
+    </pokemon>
+    <pokemon name="Mankey">
+        <AvgX value="2.14"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.28</MaxX>
+    </pokemon>
+    <pokemon name="Meowth">
+        <AvgX value="2.20"/>
+        <MinX>1.98</MinX>
+        <MaxX>2.31</MaxX>
+    </pokemon>
+    <pokemon name="Metapod">
+        <AvgX value="3.38"/>
+        <MinX>3.10</MinX>
+        <MaxX>3.79</MaxX>
+    </pokemon>
+    <pokemon name="NidoranF">
+        <AvgX value="1.71"/>
+        <MinX>1.63</MinX>
+        <MaxX>2.48</MaxX>
+    </pokemon>
+    <pokemon name="NidoranM">
+        <AvgX value="1.68"/>
+        <MinX>1.63</MinX>
+        <MaxX>1.85</MaxX>
+    </pokemon>
+    <pokemon name="Nidorina">
+        <AvgX value="1.84"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.81</MaxX>
+    </pokemon>
+    <pokemon name="Nidorino">
+        <AvgX value="1.83"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Oddish">
+        <AvgX value="1.53"/>
+        <MinX>1.03</MinX>
+        <MaxX>2.36</MaxX>
+    </pokemon>
+    <pokemon name="Omanyte">
+        <AvgX value="4.44"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Paras">
+        <AvgX value="1.94"/>
+        <MinX>1.56</MinX>
+        <MaxX>2.07</MaxX>
+    </pokemon>
+    <pokemon name="Pidgeotto">
+        <AvgX value="1.94"/>
+        <MinX>1.00</MinX>
+        <MaxX>5.56</MaxX>
+    </pokemon>
+    <pokemon name="Pidgey">
+        <AvgX value="1.92"/>
+        <MinX>1.00</MinX>
+        <MaxX>7.26</MaxX>
+    </pokemon>
+    <pokemon name="Pikachu">
+        <AvgX value="2.46"/>
+        <MinX>1.27</MinX>
+        <MaxX>4.40</MaxX>
+    </pokemon>
+    <pokemon name="Polywag">
+        <AvgX value="1.72"/>
+        <MinX>1.33</MinX>
+        <MaxX>2.43</MaxX>
+    </pokemon>
+    <pokemon name="Polywhirl">
+        <AvgX value="1.79"/>
+        <MinX>1.34</MinX>
+        <MaxX>2.02</MaxX>
+    </pokemon>
+    <pokemon name="Ponyta">
+        <AvgX value="1.50"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.23</MaxX>
+    </pokemon>
+    <pokemon name="Psyduck">
+        <AvgX value="2.31"/>
+        <MinX>1.92</MinX>
+        <MaxX>3.00</MaxX>
+    </pokemon>
+    <pokemon name="Rattata">
+        <AvgX value="2.63"/>
+        <MinX>1.33</MinX>
+        <MaxX>6.87</MaxX>
+    </pokemon>
+    <pokemon name="Rhyhorn">
+        <AvgX value="2.06"/>
+        <MinX>1.88</MinX>
+        <MaxX>3.68</MaxX>
+    </pokemon>
+    <pokemon name="Sandshrew">
+        <AvgX value="2.35"/>
+        <MinX>1.80</MinX>
+        <MaxX>2.52</MaxX>
+    </pokemon>
+    <pokemon name="Seel">
+        <AvgX value="1.68"/>
+        <MinX/>
+        <MaxX/>
+    </pokemon>
+    <pokemon name="Shellder">
+        <AvgX value="2.58"/>
+        <MinX>2.52</MinX>
+        <MaxX>2.61</MaxX>
+    </pokemon>
+    <pokemon name="Slowpoke">
+        <AvgX value="2.23"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.51</MaxX>
+    </pokemon>
+    <pokemon name="Spearow">
+        <AvgX value="2.64"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.38</MaxX>
+    </pokemon>
+    <pokemon name="Squirtle">
+        <AvgX value="1.74"/>
+        <MinX>1.00</MinX>
+        <MaxX>3.04</MaxX>
+    </pokemon>
+    <pokemon name="Staryu">
+        <AvgX value="2.37"/>
+        <MinX>1.50</MinX>
+        <MaxX>2.57</MaxX>
+    </pokemon>
+    <pokemon name="Tentacool">
+        <AvgX value="3.47"/>
+        <MinX>2.43</MinX>
+        <MaxX>12.20</MaxX>
+    </pokemon>
+    <pokemon name="Venonat">
+        <AvgX value="1.90"/>
+        <MinX>1.82</MinX>
+        <MaxX>2.46</MaxX>
+    </pokemon>
+    <pokemon name="Voltorb">
+        <AvgX value="2.01"/>
+        <MinX>1.99</MinX>
+        <MaxX>2.04</MaxX>
+    </pokemon>
+    <pokemon name="Vulpix">
+        <AvgX value="2.50"/>
+        <MinX>1.00</MinX>
+        <MaxX>2.87</MaxX>
+    </pokemon>
+    <pokemon name="Wartortle">
+        <AvgX value="1.83"/>
+        <MinX>1.62</MinX>
+        <MaxX>2.48</MaxX>
+    </pokemon>
+    <pokemon name="Weedle">
+        <AvgX value="1.17"/>
+        <MinX>1.00</MinX>
+        <MaxX>5.00</MaxX>
+    </pokemon>
+    <pokemon name="Weepinbell">
+        <AvgX value="1.49"/>
+        <MinX>1.00</MinX>
+        <MaxX>1.75</MaxX>
+    </pokemon>
+    <pokemon name="Zubat">
+        <AvgX value="3.15"/>
+        <MinX>1.00</MinX>
+        <MaxX>10.05</MaxX>
+    </pokemon>
+</pogostats>
